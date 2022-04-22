@@ -22,4 +22,4 @@
 
 **docker-compose exec django python manage.py collectstatic --no-input --clear** - *сборка статики*
 
-### Сервер поднимается на *[localhost:1337](https://localhost:1337)*, доступ к REST API идет через *[localhost:1337/api/v1](https://localhost:1337/api/v1)*
+### Сервер поднимается на *[localhost:1337](localhost:1337)*, доступ к REST API идет через *[localhost:1337/api/v1](localhost:1337/api/v1)*
